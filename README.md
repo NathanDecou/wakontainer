@@ -76,7 +76,7 @@ Wakontainer sits between a reverse proxy and a web service running in a containe
 
 1. Clone this repo `git clone https://github.com/NathanDecou/wakontainer`
 2. Go inside the folder `cd wakontainer`
-3. Install the required packages `python3 -m pip install requirements.md`
+3. Install the required packages `python3 -m pip install -r requirements.txt`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
